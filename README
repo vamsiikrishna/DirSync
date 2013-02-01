@@ -1,0 +1,7 @@
+Day once Camel in Action
+===========================
+
+running
+--------
+
+    mvn compile exec:java -Dexec.mainClass=vamsii.DirSync
