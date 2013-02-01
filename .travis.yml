@@ -1,0 +1,2 @@
+language: java
+mvn compile exec:java -Dexec.mainClass=vamsii.DirSync
